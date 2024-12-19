@@ -11,7 +11,7 @@ This project provides a RESTful API for a Library Management System, built using
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone git@github.com:AVINASH0052/library.git
    cd <repository-folder>
    ```
 
